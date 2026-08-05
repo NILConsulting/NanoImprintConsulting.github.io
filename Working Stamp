@@ -1,1 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Working Stamps | NanoImprint Consulting</title>
+
+<meta name="description" content="Independent consulting for Nanoimprint Lithography working stamps, master fabrication, hard stamps, soft stamps, PDMS, OrmoStamp, defect analysis and stamp optimization.">
+
+<meta name="keywords" content="working stamps, nanoimprint lithography, NIL, PDMS, hard stamp, soft stamp, OrmoStamp, UV NIL, thermal NIL, stamp replication">
+
+<link rel="canonical" href="https://nanoimprintconsulting.github.io/working-stamps.html">
+
+<style>
+
+*{
+box-sizing:border-box;
+}
+
+body{
+margin:0;
+font-family:"Helvetica Neue",Arial,sans-serif;
+line-height:1.7;
+color:#333;
+background:#fff;
+}
+
+header{
+
+background:
+linear-gradient(
+rgba(5,25,45,0.85),
+rgba(5,25,45,0.85)
+),
+url("https://images.unsplash.com/photo-1518770660439-4636190af475");
+
+background-size:cover;
+background-position:center;
+
+color:white;
+padding:100px 20px;
+text-align:center;
+
+}
+
+header h1{
+
+font-size:54px;
+margin-bottom:15px;
+
+}
+
+header p{
+
+font-size:22px;
+max-width:900px;
+margin:auto;
+
+}
+
+.button{
+
+display:inline-block;
+margin-top:35px;
+padding:14px 35px;
+background:#2d79b9;
+color:white;
+text-decoration:none;
+border-radius:4px;
+
+}
+
+section{
+
+max-width:1100px;
+margin:auto;
+padding:70px 25px;
+
+}
+
+h2{
+
+font-size:36px;
+color:#092b4c;
+margin-bottom:20px;
+
+}
+
+h3{
+
+color:#092b4c;
+margin-top:40px;
+
+}
+
+p{
+
+font-size:18px;
+
+}
+
+ul{
+
+padding-left:22px;
+
+}
+
+li{
+
+margin-bottom:8px;
+
+}
+
+.highlight{
+
+background:#f5f8fb;
+border-left:5px solid #2d79b9;
+padding:30px;
+margin:40px 0;
+
+}
+
+footer{
+
+background:#061c31;
+color:white;
+text-align:center;
+padding:30px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Working Stamps</h1>
+
+<p>
+Expert consulting for master fabrication, stamp replication,
+hard and soft stamp technologies, defect analysis and lifetime optimization.
+</p>
+
+<a class="button" href="index.html">
+Back to Home
+</a>
+
+</header>
+
+
+<section>
+
+<h2>The Importance of the Working Stamp</h2>
+
+<p>
+
+The working stamp is the heart of every Nanoimprint Lithography (NIL) process. Every feature,
+sidewall angle, surface roughness and defect present on the stamp is faithfully transferred into
+the resist and ultimately into the final device.
+
+The quality of the stamp directly determines process yield, dimensional accuracy,
+pattern fidelity and manufacturing costs. Selecting the appropriate stamp material,
+fabrication strategy and surface treatment is therefore essential for successful NIL production.
+
+</p>
+
+
+<div class="highlight">
+
+<b>Applications</b>
+
+<ul>
+
+<li>Semiconductor manufacturing</li>
+
+<li>Photonics and optical components</li>
+
+<li>Microfluidics</li>
+
+<li>Biotechnology</li>
+
+<li>Sensors</li>
+
+<li>Functional surfaces</li>
+
+</ul>
+
+</div>
+
+
+<h2>Master Fabrication</h2>
+
+<p>
+
+High-quality masters are generally fabricated using high-resolution nanofabrication techniques
+such as Electron Beam Lithography (EBL), Laser Interference Lithography or Deep UV Lithography.
+Because these masters are expensive and time consuming to produce, they are usually preserved
+and used only for replication of multiple working stamps.
+
+</p>
+
+<ul>
+
+<li>Highest dimensional accuracy</li>
+
+<li>Nanometer resolution</li>
+
+<li>Long-term reproducibility</li>
+
+<li>Protection of valuable master structures</li>
+
+</ul>
+
+
+<h2>Hard Stamps</h2>
+
+<p>
+
+Hard stamps are typically manufactured from Silicon, Quartz, Nickel or Glass and provide the
+highest dimensional accuracy for UV and Thermal Nanoimprint Lithography.
+
+</p>
+
+<h3>Advantages</h3>
+
+<ul>
+
+<li>Excellent dimensional stability</li>
+
+<li>Sub-10 nm resolution</li>
+
+<li>Outstanding pattern fidelity</li>
+
+<li>Excellent critical dimension control</li>
+
+<li>Long lifetime</li>
+
+</ul>
+
+<h3>Challenges</h3>
+
+<ul>
+
+<li>Brittle materials</li>
+
+<li>Particle sensitivity</li>
+
+<li>High demolding forces</li>
+
+<li>Difficult conformal contact on warped wafers</li>
+
+<li>Higher manufacturing cost</li>
+
+</ul>
+
+
+<h2>Soft Stamps (PDMS)</h2>
+
+<p>
+
+Soft stamps based on PDMS provide excellent conformal contact and enable imprinting on curved,
+flexible and non-planar substrates while reducing imprint pressure.
+
+</p>
+
+<h3>Advantages</h3>
+
+<ul>
+
+<li>Excellent flexibility</li>
+
+<li>Low imprint pressure</li>
+
+<li>Large area patterning</li>
+
+<li>Low fabrication cost</li>
+
+<li>Simple replication</li>
+
+</ul>
+
+<h3>Challenges</h3>
+
+<ul>
+
+<li>Pattern deformation</li>
+
+<li>Feature collapse</li>
+
+<li>Limited mechanical stiffness</li>
+
+<li>Swelling in organic solvents</li>
+
+<li>Reduced lifetime</li>
+
+<li>Resolution limitations for dense nanostructures</li>
+
+</ul>
+
+
+<h2>Hybrid Working Stamps</h2>
+
+<p>
+
+Modern NIL increasingly employs hybrid materials such as OrmoStamp®, OrmoComp®,
+PFPE and composite PDMS structures that combine the flexibility of soft materials
+with the dimensional stability of hard stamps.
+
+These materials provide improved mechanical properties, reduced shrinkage,
+better chemical resistance and significantly longer lifetime.
+
+</p>
+
+
+<h2>Critical Design Parameters</h2>
+
+<ul>
+
+<li>Feature size</li>
+
+<li>Pitch</li>
+
+<li>Aspect ratio</li>
+
+<li>Feature depth</li>
+
+<li>Sidewall angle</li>
+
+<li>Corner radius</li>
+
+<li>Surface roughness</li>
+
+<li>Residual layer control</li>
+
+<li>Anti-sticking coating quality</li>
+
+</ul>
+
+
+<h2>Common Challenges</h2>
+
+<ul>
+
+<li>Particle contamination</li>
+
+<li>Stamp wear</li>
+
+<li>Incomplete resist filling</li>
+
+<li>Air trapping</li>
+
+<li>Feature collapse</li>
+
+<li>High demolding forces</li>
+
+<li>Pattern distortion</li>
+
+<li>Defect replication</li>
+
+<li>Loss of anti-sticking layer</li>
+
+</ul>
+
+
+<h2>Our Expertise</h2>
+
+<p>
+
+NanoImprint Consulting provides independent support throughout the complete working stamp
+lifecycle, from master design to production optimization.
+
+</p>
+
+<ul>
+
+<li>Master design review</li>
+
+<li>Working stamp fabrication strategy</li>
+
+<li>Hard and soft stamp selection</li>
+
+<li>Replication process optimization</li>
+
+<li>Anti-sticking layer optimization</li>
+
+<li>SEM and AFM defect analysis</li>
+
+<li>Failure analysis</li>
+
+<li>Lifetime improvement</li>
+
+<li>Yield optimization</li>
+
+<li>Cost reduction strategies</li>
+
+</ul>
+
+</section>
+
+<footer>
+
+© 2026 NanoImprint Consulting
+
+</footer>
+
+</body>
+
+</html>
